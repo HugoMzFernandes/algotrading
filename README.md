@@ -15,6 +15,14 @@ A tela deverá ter as seguintes funcionalidades:
 ## 🏁 Iniciando
 Antes de começar, certifique-se de que seu computador tenha as versões do Node >= 10.16.0.
 
+Clonar o projeto usando:
+
+```bash
+git clone https://github.com/HugoMzFernandes/algotrading.git
+```
+
+ou acessando [Algotrading](https://github.com/HugoMzFernandes/algotrading.git) e baixando o ZIP do projeto.
+
 ### 🚀 Rodando o projeto
 Acesse o diretório do projeto via terminal e instale as dependências usando:
 
