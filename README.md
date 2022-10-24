@@ -1,4 +1,4 @@
-# 📞 Teste FrontEnd - AlgoTrading
+# Teste FrontEnd - AlgoTrading
 
 ---
 
@@ -42,7 +42,7 @@ npm run server
 yarn server
 ```
 
-O mock do serviço estará disponível em http://localhost:3333/
+O mock do serviço estará disponível em http://localhost:3333/ e em toda requisição há um delay de 1 segundo.
 
 
 ## ⛏️ Ferramentas Utilizadas
