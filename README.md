@@ -1,12 +1,7 @@
-# Teste FrontEnd - AlgoTrading
+# AlgoTrading
 
----
-
-Teste prático para vaga de FrontEnd na empresa XP Inc. A aplicação foi criada com Javascript utilizando Next + React.
-
-## ⭐ Desafio
-Desenvolver uma tela de CRUD simples para gerenciamento de spreads.
-A tela deverá ter as seguintes funcionalidades:
+## ⭐ Funcionalidades
+CRUD simples para gerenciamento de spreads.
 - Listagem dos spreads
 - Inclusão de novos spreads
 - Edição dos itens existentes
